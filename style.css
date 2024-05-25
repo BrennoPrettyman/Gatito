@@ -1,0 +1,30 @@
+body {
+    background-color: pink;
+    color: white;
+  }
+  
+  p {
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+  #btn {
+    background-color: purple;
+    color: white;
+    width: 100px;
+    position: absolute;
+  }
+  
+  #btn2 {
+    background-color: purple;
+    color: white;
+    width: 100px;
+  }
+  
+
+  #change:hover {
+    cursor:pointer;
+  }
+  
+  
