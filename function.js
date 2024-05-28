@@ -6,6 +6,6 @@ function mudarPosicao() {
     btn.style.top = novaPosicaoY + "px";
 }
 
-document.getElementById("btn2").addEventListener("click", function() {
+function redirecionar() {
     window.location.href = "https://www.youtube.com/watch?v=e-fA-gBCkj0";
-});
+};
